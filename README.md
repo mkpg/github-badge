@@ -18,5 +18,5 @@ https://raw.githubusercontent.com/$userName$/github-badge/master/github-repo-cou
 ## 🛠 Config
 The script can be configured to generate a badge for any user:
 * `userName`: Your username on GitHub.  
-   Example url: https://github.com/saran-k-07  
-   `userName` = `saran-k-07`
+   Example url: https://github.com/mkpg
+   `userName` = `mkpg`
